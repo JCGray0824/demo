@@ -11,3 +11,5 @@ Ok, this is an update
 ## Development
 
 1. Open index.html in your browser.
+
+Changed in "quick-test"
